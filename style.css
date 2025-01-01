@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+
+/* Style callback form */
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#callbackResult {
+    text-align: center;
+}
